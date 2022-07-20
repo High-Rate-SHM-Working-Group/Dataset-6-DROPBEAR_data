@@ -1,7 +1,11 @@
 # Dataset-6-DROPBEAR_data
 DROPBEAR Datasets from the submitted manuscript "Generated datasets from dynamic reproduction of projectiles in ballistic environments for advanced research ({DROPBEAR})".
 
+DISTRIBUTION A: Approved for public release; distribution unlimited (AFRL-2022-3309)
 
+
+
+## [Datasets](data)
 
 <p align="center">
 Table 1: DROPBEAR test setups used in generationg datasets.
@@ -12,7 +16,6 @@ Table 1: DROPBEAR test setups used in generationg datasets.
 </p>
 
 
-## [Datasets](data)
 
 1. Dataset 1 - 26Jul2018 to 28Aug2018
 1. Dataset 2 - 17Sep2018
@@ -26,10 +29,11 @@ Table 1: DROPBEAR test setups used in generationg datasets.
 1. Data for Setup 9 contains large volume of high-speed videos.  Due to space limit on GitHub, Dataset 9 is housed separately through the Box link below.  Please contact ywang-structures@hotmail.com if you have difficulty accessing.
 1. https://gatech.box.com/s/rmqxzc9clo0h9nam1xqm8ipbp9y2vbrh 
 
-
-
 Houses the published packages.
 
+
+## [PPT](PPT)
+PowerPoint version of the PDF slide deck in the main folder. Does contain some videos. 
 
 ## Licensing and Citation
 
