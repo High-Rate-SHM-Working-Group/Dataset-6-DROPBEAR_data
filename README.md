@@ -3,6 +3,13 @@ DROPBEAR Datasets from the submitted manuscript "Generated datasets from dynamic
 
 DISTRIBUTION A: Approved for public release; distribution unlimited (AFRL-2022-3309)
 
+<p align="center">
+<a><img src="media/DROPBEAR.png" alt="Shock test impact testing" width="700"></a>  
+</p>
+<p align="center">
+Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with key components annotated. 
+</p>
+
 
 
 ## [Datasets](data)
@@ -12,7 +19,7 @@ Table 1: DROPBEAR test setups used in generationg datasets.
 </p>
 
 <p align="center">
-<img src="media/table_1.jpg" alt="drawing" width="400"/>
+<img src="media/table_1.JPG" alt="drawing" width="400"/>
 </p>
 
 
