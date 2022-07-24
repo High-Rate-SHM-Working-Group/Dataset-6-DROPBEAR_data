@@ -34,7 +34,7 @@ Table 1: DROPBEAR test setups used in generationg datasets.
 1. Dataset 8 - 21May2019
 1. Dataset 9 – 23July2019 and 25July2019
 1. Data for Setup 9 contains large volume of high-speed videos.  Due to space limit on GitHub, Dataset 9 is housed separately through the Box link below.  Please contact ywang-structures@hotmail.com if you have difficulty accessing.
-  1. https://gatech.box.com/s/rmqxzc9clo0h9nam1xqm8ipbp9y2vbrh 
+  https://gatech.box.com/s/rmqxzc9clo0h9nam1xqm8ipbp9y2vbrh 
 
 
 
