@@ -15,7 +15,7 @@ Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for 
 ## [Datasets](data)
 
 <p align="center">
-Table 1: DROPBEAR test setups used in generationg datasets.
+Table 1: DROPBEAR test setups used in generating datasets.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Table 1: DROPBEAR test setups used in generationg datasets.
 1. Dataset 7 - 15Jan2020
 1. Dataset 8 - 21May2019
 1. Dataset 9 – 23July2019 and 25July2019
-1. Data for Setup 9 contains large volume of high-speed videos.  Due to space limit on GitHub, Dataset 9 is housed separately through the Box link below.  Please contact ywang-structures@hotmail.com if you have difficulty accessing.
+1. Data for Setup 9 contains a large volume of high-speed videos.  Due to the space limit on GitHub, Dataset 9 is housed separately through the Box link below.  Please contact ywang-structures@hotmail.com if you have difficulty accessing it.
   https://gatech.box.com/s/rmqxzc9clo0h9nam1xqm8ipbp9y2vbrh 
 
 
