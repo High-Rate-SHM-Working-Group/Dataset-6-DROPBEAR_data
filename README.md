@@ -1,4 +1,4 @@
-# Dataset-6-DROPBEAR_data
+# Dataset 6 DROPBEAR Data
 DROPBEAR Datasets from the submitted manuscript "Generated datasets from dynamic reproduction of projectiles in ballistic environments for advanced research ({DROPBEAR})".
 
 DISTRIBUTION A: Approved for public release; distribution unlimited (AFRL-2022-3309)
